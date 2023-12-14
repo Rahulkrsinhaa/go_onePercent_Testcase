@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="LeaderBoardSummary.leaderBoardSummaryLeadingNasherTest"
+    errors="0" failures="0" hostname="" id="" package="LeaderBoardSummary" skipped="0"
+    tests="1" time="14.36" timestamp="">
+  
+    <testcase name="When I click on any Nasher Name Then it should open their profile" classname="LeaderBoardSummary.leaderBoardSummaryLeadingNasherTest" time="7.177" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
