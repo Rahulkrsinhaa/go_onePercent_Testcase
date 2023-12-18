@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="2"
+            tests="1">
+
+  <testsuite name="LeaderBoardSummary.leaderboardSummarPageUitest"
+    errors="0" failures="2" hostname="" id="" package="LeaderBoardSummary" skipped="5"
+    tests="1" time="0.7300" timestamp="">
+  
+    <testcase name="dashboard is visible" classname="LeaderBoardSummary.leaderboardSummarPageUitest" time="0.3640" assertions="2">  <failure message="Cannot read properties of undefined (reading &#39;login&#39;)">TypeError: Cannot read properties of undefined (reading &#39;login&#39;)
+    at DescribeInstance.&lt;anonymous&gt; (/home/knoldus/Downloads/DCT/new_poc_nightwatch_js/testcases/test/LeaderBoardSummary/leaderboardSummarPageUitest.ts:18:50)
+    at new Promise (&lt;anonymous&gt;)</failure>
+<system-out>[[ATTACHMENT|/home/knoldus/Downloads/DCT/new_poc_nightwatch_js/testcases/screens/LeaderBoardSummary/leaderboardSummarPageUitest/dashboard-is-visible_FAILED_Dec-14-2023-184805-GMT+0530.png]]</system-out>
+      <failure message="Cannot read properties of undefined (reading &#39;waitForElementVisible&#39;)">TypeError: Cannot read properties of undefined (reading &#39;waitForElementVisible&#39;)
+    at DescribeInstance.&lt;anonymous&gt; (/home/knoldus/Downloads/DCT/new_poc_nightwatch_js/testcases/test/LeaderBoardSummary/leaderboardSummarPageUitest.ts:52:8)</failure>
+<system-out>[[ATTACHMENT|/home/knoldus/Downloads/DCT/new_poc_nightwatch_js/testcases/screens/LeaderBoardSummary/leaderboardSummarPageUitest/dashboard-is-visible_FAILED_Dec-14-2023-184806-GMT+0530.png]]</system-out>
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+    
+    <testcase
+      name="When I expand leaderboard Then I should be able to see summary in leaderboard menu" classname="LeaderBoardSummary.leaderboardSummarPageUitest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="When I click on summary Then summary page should be open with all the details" classname="LeaderBoardSummary.leaderboardSummarPageUitest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="When I click on navigation arrow Then it should let me switch to all other contribution types" classname="LeaderBoardSummary.leaderboardSummarPageUitest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="When I scroll down Then I should be able to see Leading Nasher list" classname="LeaderBoardSummary.leaderboardSummarPageUitest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="When I am on this month button and click on All time button Then I should be able to switch between both buttons and able to see the list of nasher" classname="LeaderBoardSummary.leaderboardSummarPageUitest">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>
