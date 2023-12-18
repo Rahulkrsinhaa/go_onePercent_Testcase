@@ -1,6 +1,6 @@
 {
   "name": "testcases",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,6 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "page_object_model": "file:../page_object_model"
+    "page_object_model": "1.0.0"
   }
 }
